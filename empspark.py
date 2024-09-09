@@ -43,7 +43,7 @@ def get_department_with_highest_avg_salary(df):
 
 # Display all the results like below given example
 # Example: print("Employee(s) with the Maximum Salary:")
-           max_salary_employee.show()
+    max_salary_employee.show()
 
 # Stop the Spark session
 spark.stop()
